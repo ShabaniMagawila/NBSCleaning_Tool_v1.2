@@ -1,0 +1,36 @@
+==========================================
+NBS Cleaning Tool License Agreement
+==========================================
+
+Software Name: NBS Cleaning Tool
+Purpose: This tool is developed for the National Bureau of Statistics (NBS), under the GIS Department, to facilitate data cleaning operations efficiently.
+
+Developer Information:
+-----------------------
+Name: Shabani Magawila
+Phone: +255759968919
+Email: shabanimagawila@gmail.com
+
+Programming Language:
+---------------------
+The NBS Cleaning Tool is built using Python programming language.
+
+License Terms:
+--------------
+1. This software is provided exclusively for use by the NBS under the GIS Department.
+2. Redistribution, modification, or use of this tool outside of the intended organization is prohibited without prior written consent from the developer.
+3. This software is provided "as-is" without any warranties, express or implied. The developer is not responsible for any damages or data loss resulting from the use of this tool.
+4. All rights to the source code and associated intellectual property belong to the developer, Shabani Magawila.
+
+Contact Information:
+--------------------
+For inquiries, support, or feedback, please contact:
+Shabani Magawila
+Phone: +255759968919
+Email: shabanimagawila@gmail.com
+
+Date of Creation:
+-----------------
+09/12/2024
+
+Thank you for using the NBS Cleaning Tool!
